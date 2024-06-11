@@ -73,7 +73,7 @@ add_custom_command(TARGET hello_window POST_BUILD
     $<TARGET_FILE_DIR:hello_window>
 )
 ```
-重新编译执行，输入如下：
+重新编译执行，输出如下：
 
 <img src=../img/sdl3_01_result.png width="300"/>
 

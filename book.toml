@@ -3,4 +3,4 @@ authors = ["royeeliu"]
 language = "zh-CN"
 multilingual = false
 src = "src"
-title = "有关视频处理编程的一些不热门问题"
+title = "有关视频开发的不热门问题"

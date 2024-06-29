@@ -118,7 +118,7 @@ Performance: FPS(AVR|RT): 59.95|60.04
 ```
 
 关闭垂直同步，对各渲染引擎分别进行帧率测试，结果如下：
-|direct3d11|direct3d12|direct3d|opengl|opengles2|vulkan|software|
+|direct3d11|direct3d12|direct3d(9)|opengl|opengles2|vulkan|software|
 | -------- | -------- | ------ | ---- | ------- | ---- | ------- |
 | 33113.44 | 1155.43 | 1729.66 | 1673.66 | 1716.95 | 1565.44 | 1668.42 |
 

@@ -116,6 +116,6 @@ fn save_file(frame: &Video, index: usize) -> std::result::Result<(), std::io::Er
 cargo run --example dump-frames -- "C:\Videos\bear.mp4"
 ```
 用看图软件查看输出的 .ppm 文件：
-![alt text](../img/02_bear.png)
+<img src=../img/02_bear.png width="320"/>
 
 解码顺利完成，后续我们会在这个代码的基础增加视频渲染到窗口的能力，一步步向着一个正经播放器的样子前进。
